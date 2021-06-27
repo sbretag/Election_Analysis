@@ -19,11 +19,9 @@ A Colorado Board of Elections employee has requested the following tasks to comp
 
 ## Audit Results
 
-### Results Output (TXT)
+### Audit Results Output
 ![](https://github.com/sbretag/Election_Analysis/blob/main/Analysis/Election_Results_TextOutput.png)
-
-### Results Output (Terminal)
-![](https://github.com/sbretag/Election_Analysis/blob/main/Analysis/Election_Results_TerminalOutput.png)
+[Terminal Output of Audit Results](https://github.com/sbretag/Election_Analysis/blob/main/Analysis/Election_Results_TerminalOutput.png)
 
 ## Election-Audit
 

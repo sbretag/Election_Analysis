@@ -26,7 +26,7 @@ A Colorado Board of Elections employee has requested the following tasks to comp
 [Terminal Output of Audit Results](https://github.com/sbretag/Election_Analysis/blob/main/Analysis/Election_Results_TerminalOutput.png)
 
 ## Election Audit Summary
-Overall, the results of the audit were collected in an accurate and efficient manner using python code.  Given the success, we would like to propose handling all future election audits in both states and nationally.  The script used to perform an audit in this election is flexible and with minor modifications to handle other elections with the same success.  Here are a few examples.
+Overall, the results of the audit were collected in an accurate and efficient manner using python code.  Given the success, we would like to propose handling all future election audits in both states and nationally.  The script used to perform an audit in this election is flexible and with minor modifications it can handle other types of elections with the same success.  Here are a few examples.
   1. example 1
   2. example 2
   

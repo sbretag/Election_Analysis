@@ -109,7 +109,7 @@ with open(file_to_save, "w") as txt_file:
         county_vote_percentage = float(county_vote_count) / float(total_votes) * 100
 
         # Set County Results Variable
-        county_results = (f"{county_name}: {county_vote_percentage:.1f}% ({county_vote_count:,})")
+        county_results = (f"{county_name}: {county_vote_percentage:.1f}% ({county_vote_count:,})\n")
         
         # Print Country Results to Terminal
         print(county_results)

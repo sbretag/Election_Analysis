@@ -14,25 +14,16 @@ A Colorado Board of Elections employee has requested the following tasks to comp
 9. Determine winning candidate based on popular vote and associated winning count and winning percentage.
 
 ## Resources
-- [Voting Data Source: Election Results.csv](https://github.com/sbretag/Election_Analysis/blob/main/resources/election_results.csv)
-- Software: Python 3.8.8, Visual Studio 1.57.1
-
-
-## Audit Results
-
-
-## Resources
--  
--  
+= [Voting Data Source: Election Results.csv](https://github.com/sbretag/Election_Analysis/blob/main/Resources/election_results.csv)
 - Software: Python 3.8.8, Visual Studio 1.57.1
 
 ## Audit Results
-#### Table 2
+
+### Results Output (TXT)
 ![](https://github.com/sbretag/Election_Analysis/blob/main/Analysis/Election_Results_TextOutput.png)
 
-##### Data Analysis File w/Original Script
- [Voting Data Source: Election Results.csv](https://github.com/sbretag/stocks_analysis/blob/main/resources/election_results.csv)
-
+### Results Output (Terminal)
+![](https://github.com/sbretag/Election_Analysis/blob/main/Analysis/Election_Results_TerminalOutput.png)
 
 ## Election-Audit
 
